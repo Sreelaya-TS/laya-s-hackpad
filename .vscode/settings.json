@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Firmware/kmk_firmware-main",
+        "./Firmware/kmk_firmware-main/kmk/kmk_key"
+    ]
+}

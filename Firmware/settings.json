@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./laya's macropad/kmk_firmware-main"
+    ]
+}
